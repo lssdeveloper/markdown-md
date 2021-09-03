@@ -1,6 +1,8 @@
 # Dicas Markdown
 
 ### Para saber mais sobre Markdown, recomendo a leitura da documentação oficial:
+https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 <http://daringfireball.net/projects/markdown/>
 
 ### E alguns links de como o Github usa Markdown:
